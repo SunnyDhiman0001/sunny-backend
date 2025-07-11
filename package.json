@@ -1,0 +1,14 @@
+{
+  "name": "sunnybackend",
+  "version": "1.0.0",
+  "description": "backend code of social application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sunnywithcode"
+  ],
+  "author": "",
+  "license": "ISC"
+}
